@@ -1,1 +1,4 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<layout id="MainLayout">
+  <!-- Optional könntest du hier später <label>-Elemente hinzufügen -->
+</layout>
